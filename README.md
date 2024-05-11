@@ -1,2 +1,3 @@
 Implementasi Persamaan Linear
+
 Proyek ini mengimplementasikan tiga metode untuk menyelesaikan sistem persamaan linear dalam Python: metode matriks balikan, metode dekomposisi Gauss, dan metode dekomposisi Crout Dengan mengimplementasikan ketiga metode ini, proyek ini memungkinkan pengguna untuk memahami dan membandingkan pendekatan yang berbeda dalam menyelesaikan sistem persamaan linear. Pemilihan metode tergantung pada kebutuhan spesifik dan sifat matriks yang dihadapi. Metode matriks balikan cocok untuk matriks yang dapat diinverskan, sementara metode dekomposisi Gauss dan Crout lebih umum digunakan untuk matriks yang tidak memiliki determinan nol.
